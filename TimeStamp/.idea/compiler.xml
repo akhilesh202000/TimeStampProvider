@@ -9,5 +9,8 @@
         <module name="TimeStamp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TimeStamp" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
