@@ -2,7 +2,7 @@ package swlcm.sample1;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
-
+//taken from
 @Path("/api/sample")
 public class SampleController {
 

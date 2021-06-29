@@ -5,6 +5,7 @@ import org.glassfish.jersey.server.ResourceConfig;
 import java.io.IOException;
 import java.net.URI;
 
+//taken from https://github.com/kienboec/SWLCM-Samples/blob/main/src/main/java/Main.java
 public class Main {
     public static void main(String[] args){
         System.out.println("Starting the application");
